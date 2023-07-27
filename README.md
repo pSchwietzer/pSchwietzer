@@ -31,71 +31,91 @@ Most important part:
 
 <table>
     <tr>
-        <th width="96">HTML</th>
-        <th width="96">CSS</th>
-        <th width="96">JavaScript</th>
-        <th width="96">TypeScript</th>
-        <th width="96">Rust</th>
+        <th width="96"><div align="center">HTML</div></th>
+        <th width="96"><div align="center">CSS</div></th>
+        <th width="96"><div align="center">JavaScript</div></th>
+        <th width="96"><div align="center">TypeScript</div></th>
+        <th width="96"><div align="center">Rust</div></th>
     </tr>
     <tr>
         <td width="96">
-            <a target=”_blank” href="https://html.spec.whatwg.org/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/html.svg" alt"HTML" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://html.spec.whatwg.org/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/html.svg" alt"HTML" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://www.w3.org/Style/CSS/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/css.svg" alt"CSS" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://www.w3.org/Style/CSS/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/css.svg" alt"CSS" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/javascript.svg" alt"JavaScript" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/javascript.svg" alt"JavaScript" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://www.typescriptlang.org/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/typescript.svg" alt"TypeScript" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://www.typescriptlang.org/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/typescript.svg" alt"TypeScript" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://www.rust-lang.org/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/rust.svg" alt"Rust" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://www.rust-lang.org/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/rust.svg" alt"Rust" height="48" width="48" />
+                </a>
+            </div>
         </td>
     </tr>
     <tr>
-        <th width="96">React</th>
-        <th width="96">Next.Js</th>
-        <th width="96">Svelte</th>
-        <th width="96">Tailwind</th>
-        <th width="96">Tauri</th>
+        <th width="96"><div align="center">React</div></th>
+        <th width="96"><div align="center">Next.Js</div></th>
+        <th width="96"><div align="center">Svelte</div></th>
+        <th width="96"><div align="center">Tailwind</div></th>
+        <th width="96"><div align="center">Tauri</div></th>
     </tr>
     <tr>
         <td width="96">
-            <a target=”_blank” href="https://react.dev/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/react.svg" alt"React" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://react.dev/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/react.svg" alt"React" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://nextjs.org/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/next.svg" alt"Next.js" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://nextjs.org/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/next.svg" alt"Next.js" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://svelte.dev/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/svelte.svg" alt"Svelte" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://svelte.dev/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/svelte.svg" alt"Svelte" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://tailwindcss.com/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tailwind.svg" alt"Tailwind" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://tailwindcss.com/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tailwind.svg" alt"Tailwind" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://tauri.app/">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tauri.svg" alt"Tauri" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://tauri.app/">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tauri.svg" alt"Tauri" height="48" width="48" />
+                </a>
+            </div>
         </td>
     </tr>
 </table>
@@ -110,16 +130,26 @@ Most important part:
 
 <table>
     <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stack</th>
+        <th><div align="center">Name</div></th>
+        <th><div align="center">Description</div></th>
+        <th><div align="center">Stack</div></th>
     </tr>
     <tr>
-        <td><a target=”_blank” href="https://gitlab.com/pSchwietzer/suukon">Suukon</a></td>
-        <td>CLI and Library for converting numbers between different numeral systems.</td>
-        <td>Rust</td>
+        <td>
+            <div align="center">
+                <a target=”_blank” href="https://gitlab.com/pSchwietzer/suukon">Suukon</a>
+            </div>
+        </td>
+        <td>
+            <div align="center">CLI and Library for converting numbers between different numeral systems.</div>
+        </td>
+        <td>
+            <div align="center">Rust</div>
+        </td>
     </tr>
-        <td colspan="3">Working on something new, may take some time...</td>
+        <td colspan="3">
+            <div align="center">Working on something new, may take some time...</div>
+        </td>
     </tr>
 </table>
 
@@ -133,25 +163,31 @@ Most important part:
 
 <table>
     <tr>
-        <th>Gitlab</th>
-        <th>Github</th>
-        <th>LinkedIn</th>
+        <th><div align="center">Gitlab</div></th>
+        <th><div align="center">Github</div></th>
+        <th><div align="center">LinkedIn</div></th>
     </tr>
     <tr>
         <td width="96">
-            <a target=”_blank” href="https://gitlab.com/pSchwietzer">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/gitlab.svg" alt"Gitlab" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://gitlab.com/pSchwietzer">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/gitlab.svg" alt"Gitlab" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://github.com/pSchwietzer">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/github.svg" alt"Github" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://github.com/pSchwietzer">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/github.svg" alt"Github" height="48" width="48" />
+                </a>
+            </div>
         </td>
         <td width="96">
-            <a target=”_blank” href="https://linkedin.com/in/pschwietzer">
-                <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/linkedin.svg" alt"LinkedIn" height="48" width="48" />
-            </a>
+            <div align="center">
+                <a target=”_blank” href="https://linkedin.com/in/pschwietzer">
+                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/linkedin.svg" alt"LinkedIn" height="48" width="48" />
+                </a>
+            </div>
         </td>
     </tr>
 </table>
