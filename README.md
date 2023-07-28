@@ -147,6 +147,20 @@ Most important part:
             <div align="center">Rust</div>
         </td>
     </tr>
+    <tr>
+        <td>
+            <div align="center">
+                <a target=”_blank” href="https://gitlab.com/pSchwietzer/arasaka-dot">ARASAKA.DOT</a>
+            </div>
+        </td>
+        <td>
+            <div align="center">My dot files themed around Arasaka from Cyberpunk 2077.</div>
+        </td>
+        <td>
+            <div align="center">Dotfiles</div>
+        </td>
+    </tr>
+    <tr>
         <td colspan="3">
             <div align="center">Working on something new, may take some time...</div>
         </td>
