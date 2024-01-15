@@ -17,7 +17,6 @@ I am probably wasting my time by ricing my WM or neovim.
 I also like learning languages,
 which led me to learning japanese for round about 2 years now.
 
-Most important part:
 忘れるなよ、ドイツの科学は世界一ィィィィ!!
 ```
 
@@ -147,6 +146,19 @@ Most important part:
             <div align="center">Rust</div>
         </td>
     </tr>
+        <tr>
+        <td>
+            <div align="center">
+                <a target=”_blank” href="https://gitlab.com/pSchwietzer/full2half">Full2Half</a>
+            </div>
+        </td>
+        <td>
+            <div align="center">Library and CLI for converting full-width characters to half-width characters and vice versa.</div>
+        </td>
+        <td>
+            <div align="center">Rust</div>
+        </td>
+    </tr>
     <tr>
         <td>
             <div align="center">
@@ -158,11 +170,6 @@ Most important part:
         </td>
         <td>
             <div align="center">Dotfiles</div>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="3">
-            <div align="center">Working on something new, may take some time...</div>
         </td>
     </tr>
 </table>
