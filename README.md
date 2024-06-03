@@ -8,17 +8,9 @@
 
 # About me ⛩️
 
-```md
-Maybe I am a web developer maybe not, who knows.
+I'm a full stack developer fluent in German, English, and conversational in Japanese, with expertise in modern technologies like TypeScript and Rust.
 
-If I'm not working on a project,
-I am probably wasting my time by ricing my WM or neovim.
-
-I also like learning languages,
-which led me to learning japanese for round about 2 years now.
-
-忘れるなよ、ドイツの科学は世界一ィィィィ!!
-```
+When I'm not working on a project, I enjoy customizing my window manager or Neovim setup. I also have a passion for learning languages and have been studying Japanese for about two years now.
 
 <br /><br />
 
