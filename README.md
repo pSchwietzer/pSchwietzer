@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/retro-car.gif" width="100%" alt="Retro Car" />
+<img src="images/retro-car.gif" width="100%" alt="Retro Car" />
 
 <table>
     <tr>
