@@ -1,123 +1,6 @@
 <div align="center">
 
-# Hello there 💀
-
-<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/spinning-skeleton-skeleton.gif" width="384" alt="Spinning Skeleton Meme" />
-
-<br />
-
-# About me ⛩️
-
-I'm a full stack developer fluent in German, English, and conversational in Japanese, with expertise in modern technologies like TypeScript and Rust.
-
-When I'm not working on a project, I enjoy customizing my window manager or Neovim setup. I also have a passion for learning languages and have been studying Japanese for about two years now.
-
-<br /><br />
-
-<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/megumin.gif" width="384" alt="Konosuba Megumin" />
-
-<br />
-
-# Things I tend to make use of 🚀
-
-<table>
-    <tr>
-        <th width="96"><div align="center">HTML</div></th>
-        <th width="96"><div align="center">CSS</div></th>
-        <th width="96"><div align="center">JavaScript</div></th>
-        <th width="96"><div align="center">TypeScript</div></th>
-        <th width="96"><div align="center">Rust</div></th>
-    </tr>
-    <tr>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://html.spec.whatwg.org/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/html.svg" alt"HTML" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://www.w3.org/Style/CSS/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/css.svg" alt"CSS" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/javascript.svg" alt"JavaScript" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://www.typescriptlang.org/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/typescript.svg" alt"TypeScript" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://www.rust-lang.org/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/rust.svg" alt"Rust" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <th width="96"><div align="center">React</div></th>
-        <th width="96"><div align="center">Next.Js</div></th>
-        <th width="96"><div align="center">Svelte</div></th>
-        <th width="96"><div align="center">Tailwind</div></th>
-        <th width="96"><div align="center">Tauri</div></th>
-    </tr>
-    <tr>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://react.dev/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/react.svg" alt"React" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://nextjs.org/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/next.svg" alt"Next.js" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://svelte.dev/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/svelte.svg" alt"Svelte" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://tailwindcss.com/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tailwind.svg" alt"Tailwind" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://tauri.app/">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/stack/tauri.svg" alt"Tauri" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-    </tr>
-</table>
-
-<br /><br />
-
-<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/yoda.gif" width="384" alt="Star Wars Master Yoda" />
-
-<br />
-
-# Built, things I have 🏗️
+<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/retro-car.gif" width="100%" alt="Retro Car" />
 
 <table>
     <tr>
@@ -132,10 +15,10 @@ When I'm not working on a project, I enjoy customizing my window manager or Neov
             </div>
         </td>
         <td>
-            <div align="center">CLI and Library for converting numbers between different numeral systems.</div>
+            <div align="Left">CLI and Library for converting numbers between different numeral systems.</div>
         </td>
         <td>
-            <div align="center">Rust</div>
+            <div align="left">Rust</div>
         </td>
     </tr>
         <tr>
@@ -145,10 +28,10 @@ When I'm not working on a project, I enjoy customizing my window manager or Neov
             </div>
         </td>
         <td>
-            <div align="center">Library and CLI for converting full-width characters to half-width characters and vice versa.</div>
+            <div align="Left">Library and CLI for converting full-width characters to half-width characters and vice versa.</div>
         </td>
         <td>
-            <div align="center">Rust</div>
+            <div align="left">Rust</div>
         </td>
     </tr>
     <tr>
@@ -158,51 +41,26 @@ When I'm not working on a project, I enjoy customizing my window manager or Neov
             </div>
         </td>
         <td>
-            <div align="center">My dot files themed around Arasaka from Cyberpunk 2077.</div>
+            <div align="left">My dot files themed around Arasaka from Cyberpunk 2077.</div>
         </td>
         <td>
-            <div align="center">Dotfiles</div>
+            <div align="left">Dotfiles</div>
         </td>
     </tr>
 </table>
-
-<br /><br />
-
-<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/obito.gif" width="384" alt="Naruto Shippuden Obito disappearing" />
 
 <br />
 
-# Find Me Online 🔍
-
-<table>
-    <tr>
-        <th><div align="center">Gitlab</div></th>
-        <th><div align="center">Github</div></th>
-        <th><div align="center">LinkedIn</div></th>
-    </tr>
-    <tr>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://gitlab.com/pSchwietzer">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/gitlab.svg" alt"Gitlab" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://github.com/pSchwietzer">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/github.svg" alt"Github" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-        <td width="96">
-            <div align="center">
-                <a target=”_blank” href="https://linkedin.com/in/pschwietzer">
-                    <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/linkedin.svg" alt"LinkedIn" height="48" width="48" />
-                </a>
-            </div>
-        </td>
-    </tr>
-</table>
+<a target=”_blank” href="https://gitlab.com/pSchwietzer">
+<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/gitlab.svg" alt"Gitlab" height="48" width="48" />
+</a>
+&nbsp;&nbsp;
+<a target=”_blank” href="https://github.com/pSchwietzer">
+<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/github.svg" alt"Github" height="48" width="48" />
+</a>
+&nbsp;&nbsp;
+<a target=”_blank” href="https://linkedin.com/in/pschwietzer">
+<img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/social/linkedin.svg" alt"LinkedIn" height="48" width="48" />
+</a>
 
 </div>
