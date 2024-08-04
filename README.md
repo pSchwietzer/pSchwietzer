@@ -2,11 +2,9 @@
 
 <img src="https://gitlab.com/pSchwietzer/pSchwietzer/-/raw/main/images/ellen.jpg" width="100%" alt="ZZZ Ellen Joe" />
 
-### My Projects
-
 <table>
     <tr>
-        <th><div align="center">Name</div></th>
+        <th><div align="center">Project</div></th>
         <th width="100%"><div align="center">Description</div></th>
     </tr>
     <tr>
