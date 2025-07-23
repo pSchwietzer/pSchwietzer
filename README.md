@@ -37,6 +37,16 @@
             <div align="left">A plymouth theme for the boot screen themed around Arasaka from Cyberpunk 2077.</div>
         </td>
     </tr>
+        <tr>
+        <td>
+            <div align="center">
+                <a target=”_blank” href="https://gitlab.com/pSchwietzer/arasaka-plymouth">ZZZ Plymouth Themes</a>
+            </div>
+        </td>
+        <td>
+            <div align="left">A plymouth theme collection inspired by the factions from Zenless Zone Zero.</div>
+        </td>
+    </tr>
 </table>
 
 <br />
